@@ -1,0 +1,12 @@
+name = "webdav"
+main = "src/index.ts"
+compatibility_date = "2023-01-01"
+
+[vars]
+USERNAME = "wfm324"
+PASSWORD = "Wfm/*94+keepass"
+BUCKET_NAME = "wfm987650"
+
+[[r2_buckets]]
+binding = "BUCKET"
+bucket_name = "keepass"
